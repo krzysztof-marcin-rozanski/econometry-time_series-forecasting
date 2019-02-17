@@ -1,2 +1,2 @@
 # econometry-time_series-forecasting
-Repository of ecomonetry, time series and forecasting implementation in R language.
+Repository of econometry, time series and forecasting implementation in R language.
